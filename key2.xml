@@ -15,7 +15,11 @@
     <remove-project path="frameworks/base"/>
     <project name="FumoEnterprises/android_frameworks_base" path="frameworks/base" remote="github" revision="lineage-22.2" />
 
+    <!-- touch keypad hal -->
+    <project name="svindled/android_hardware_blackberry" path="hardware/blackberry" remote="github" revision="lineage-22.2" />
+
     <!-- audio hal -->
     <remove-project path="hardware/qcom-caf/msm8998/audio"/>
     <project name="svindled/android_hardware_qcom_audio" path="hardware/qcom-caf/msm8998/audio" remote="github" revision="lineage-22.2-caf-msm8998" />
 </manifest>
+c
