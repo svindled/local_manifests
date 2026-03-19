@@ -1,0 +1,7 @@
+<!-- .repo/local_manifests/openeuicc.xml -->
+<manifest>
+    <remote name="openeuicc" fetch="https://gitea.angry.im" />
+    <project path="packages/apps/OpenEUICC" name="estkme-group/OpenEUICC" remote="github" revision="master" />
+    <project path="packages/apps/OpenEUICC/libs/lpac-jni/src/main/jni/lpac" name="estkme-group/lpac" revision="d214738fa0bdb23faf5833d3d798963079a00468" />
+    <project path="prebuilts/openeuicc-deps" name="PeterCxy/android_prebuilts_openeuicc-deps" remote="openeuicc" revision="master" />
+</manifest>
