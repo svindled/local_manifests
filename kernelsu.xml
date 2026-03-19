@@ -1,0 +1,4 @@
+<!-- .repo/local_manifests/kernelsu.xml -->
+<manifest>
+	<project path="kernel/blackberry/sdm660/drivers/kernelsu" name="KernelSU-Next/KernelSU-Next" remote="github" revision="legacy" />
+</manifest>
