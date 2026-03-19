@@ -22,4 +22,3 @@
     <remove-project path="hardware/qcom-caf/msm8998/audio"/>
     <project name="svindled/android_hardware_qcom_audio" path="hardware/qcom-caf/msm8998/audio" remote="github" revision="lineage-22.2-caf-msm8998" />
 </manifest>
-c
